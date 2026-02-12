@@ -59,7 +59,7 @@ const AboutWindowContent: React.FC = () => {
         </div>
 
         <div className="mt-12 bg-black text-white p-6 border-2 border-gray-800">
-           <p className="font-mono text-sm mb-2">> cat status.txt</p>
+           <p className="font-mono text-sm mb-2"> cat status.txt</p>
            <p className="font-mono text-green-400">Current Status: Available for hire</p>
            <p className="font-mono text-gray-400 mt-2">To initiate contact, please open the 'Contact.msg' application from your desktop.</p>
         </div>
